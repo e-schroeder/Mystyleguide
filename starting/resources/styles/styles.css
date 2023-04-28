@@ -1,0 +1,206 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/* HEADER */
+
+header {
+    background-image: url("../images/designhexagon.jpg");
+    background-size: cover;
+    height: 60px;
+    
+}
+
+h1 {
+    font-family: "Open Sans";
+    font-size: 40px;
+    text-decoration: ;
+    text-align: center;
+    color: #00008b;
+    font-weight: 800;
+}
+
+p {
+    font-family: "nunito sans";
+    font-size: 18px;
+    font-weight: 400;
+    color: #000000;
+}
+/* MAIN */
+
+main {
+    background-color: whitesmoke;
+    height: 2000px;
+}
+
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #ff4400f3;
+    padding-left: 140px;
+    padding-bottom: 10px;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.style-container {
+    background-color: lightblue;
+    width: 70%;
+    height: 2000px;
+    padding: 20px 30px;
+    margin: 0 auto;
+} 
+
+.style-section {
+    background-color: white;
+    border: 3px solid #BDBDBD;
+    margin: 30px 0px;
+
+}
+
+h3 {
+    font-family: "Nunito Sans";
+    font-size: 28px;
+    font-weight: 700;
+    text-decoration: ;
+    text-align: left;
+    padding: 10px 10px 10px;
+    color: black;
+}
+
+/* COLOR SECTION */
+
+.color-container {
+    padding: 0 12px;
+}
+
+.color-panel {
+    display: inline-block;
+    height: 110px;
+    width: 230px;
+    margin: 15px 2px;
+}
+
+ .red-50{
+    background-color: #EF5350;
+    padding: ;
+    margin: ;
+    
+ }
+
+ .red-50 p {
+    text-align: center;
+    font-size: 20px;
+    padding: 10px 0;
+    color: white;
+ }
+ 
+ .teal-50 {
+    background-color: #00796B;
+
+ }
+
+ .teal-50 p {
+    text-align: center;
+    font-size: 20px;
+    padding: 10px 0;
+    color: white;
+ }
+
+ .green-50 {
+    background-color: #81C784;
+
+ }
+
+ .green-50 p {
+    text-align: center;
+    font-size: 20px;
+    padding: 10px 0;
+    color: black;
+ }
+
+ .blue-gray-50 {
+    background-color: #607D8B;
+
+ }
+
+ .blue-gray-50 p {
+    text-align: center;
+    font-size: 20px;
+    padding: 10px 0;
+    color: white;
+ }
+
+
+/* FONT SECTION */
+
+.font-container {
+    padding: 15px 0 15px 15px;
+}
+
+.font-panel {
+    width: 300px;
+    display: inline-block;
+    margin: 10px 10px;
+}
+
+h4 {
+    font-weight: 400;
+    font-size: 24px;
+    text-decoration: underline;
+    padding-bottom: 10px;
+}
+
+.font-panel p {
+    font-size: 20px;
+    margin: 10px 0;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.noto-serif p,
+.noto-serif h4 {
+    font-family: "noto serif";
+}
+
+.nunito-sans p,
+.nunito-sans h4 {
+    font-family: "nunito sans";
+}
+
+.open-sans p,
+.open-sans h4 {
+    font-family: "open sans";
+}
+
+.source-san-pro p,
+.source-san-pro h4 {
+    font-family: "source san pro";
+    line-height: 28px;
+}
+
+
+
+
+/* TEXT SECTION */
+
+.text-panel {
+    margin: 10px 10px;
+    display: inline;
+}
+
+#text-example {
+    text-align: left;
+    margin: 5px 5px;
+    padding: 0;
+}
+
+ul {
+    margin-left: 50px;
+}
